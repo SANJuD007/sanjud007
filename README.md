@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello, I'm Sandeep Sebastian
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+I am a self tought  with a profound interest in technology and a dedication to solving complex problems.
 <!--
 **SANJuD007/sanjud007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
